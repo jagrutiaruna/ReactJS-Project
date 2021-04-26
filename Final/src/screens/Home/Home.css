@@ -1,0 +1,23 @@
+.upcomingMovieHeader{
+    background-color: #ff9999;
+    text-align: center;
+    padding: 8px;
+    font-size: 1rem; 
+}
+
+.section-two-main{
+    display:flex;
+    cursor: pointer;
+
+}
+.movie-list-part{
+    flex:76%;
+    margin:16px;
+}
+.filter-form-part{
+    flex:24%;
+    margin:16px;
+}
+#grid-tile{
+    height:350px;
+}
